@@ -9,8 +9,8 @@
 /category/the-context/* https://www.spotlightpa.org/newsletters/papost/ 301!
 
 # Kill WP stuff
-/wp-content/*   404.html 410!
-/wp-includes/*  404.html 410!
+/wp-content/*   /404.html 410!
+/wp-includes/*  /404.html 410!
 
 # Home as 302 because we may change it
 / https://www.spotlightpa.org/news/2020/08/pennsylvania-news-spotlight-pa-pa-post-merger-harrisburg-statewide-journalism/ 302
